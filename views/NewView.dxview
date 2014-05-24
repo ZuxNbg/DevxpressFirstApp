@@ -1,0 +1,6 @@
+<div data-options="dxView : { name: 'NewView', title: 'NovProzor' } " >
+    <div  data-options="dxContent : { targetPlaceholder: 'content' } " >
+        <h1 data-bind="text: message"></h1>
+        
+    </div>
+</div>
